@@ -1,0 +1,36 @@
+.cntnr{
+   margin: 300px;
+   margin-left: 740px;
+
+}
+
+.dice{
+   width: 55px;
+   background-color: #11A711;
+   float: left;
+   margin: 10px;
+   border-radius: 5px;
+   font-size: 35px;
+   text-align: center;
+   font-weight: bolder;
+}
+
+#button{
+   background-color: crimson;
+   font-size: 30px;
+   color: white;
+   margin-top: 10px;
+   margin-left: 30px;
+   cursor: pointer;
+}
+
+#status{
+   background: #f1f1f1;
+   display: inline-block;
+   position: absolute;
+   top: 30%;
+   left: 39%;
+   margin-top: 100px;
+   border: 1px gray solid;
+   
+}
